@@ -1,0 +1,6 @@
+[submodule "API-5SEM-BACKEND"]
+	path = API-5SEM-BACKEND
+	url = https://github.com/DenariusData/API-5SEM-BACKEND.git
+[submodule "API-5SEM-FRONTEND"]
+	path = API-5SEM-FRONTEND
+	url = https://github.com/DenariusData/API-5SEM-FRONTEND.git
