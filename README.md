@@ -1,7 +1,6 @@
 <img width="1300" height="240" src="./docs/media/banner-nexus.svg">
 
 <br />
-
 <span id="denarius-data">
 
 # <p align="center">Denarius Data</p>
